@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @aaqibp
-- 👀 I’m interested in Computer Science and Software Engineering.
-- 🌱 I’m currently learning Front and Back end development, C, and Python.
+Undergraduate Computer Science student @ UBC | writing code, making bugs, learning fast
 
 
 <!---
