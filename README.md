@@ -1,4 +1,4 @@
-undergraduate computer science student @ ubc | writing code, making bugs, learning fast
+undergraduate computer science student @ ubc | writing code, creating bugs, learning fast
 
 
 <!---
