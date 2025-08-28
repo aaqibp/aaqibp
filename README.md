@@ -1,7 +1,23 @@
-undergraduate computer science student @ ubc | writing code, creating bugs, learning fast
+```python
+class Profile:
+    def __init__(self):
+        self.name = "aaqib"
+        self.role = "computer science student | aspiring swe/infra engineer"
+        self.education = {
+            "institution": "university of british columbia",
+            "degree": "bachelor of computer science",
+            "year": "ongoing"
+        }
+        self.interests = [
+            "bringing ideas to life",
+            "basketball",
+            "tech",
+        ]
+        self.website = "aaqibp.me"
 
+    def __repr__(self):
+        return f"<Profile: {self.name}, Role: {self.role}>"
 
-<!---
-aaqibp/aaqibp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+aaqib = Profile()
+print(aaqib)
+```
