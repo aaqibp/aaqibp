@@ -5,13 +5,13 @@ class Profile:
         self.role = "computer science student | aspiring cloud & infra engineer"
         self.education = {
             "institution": "university of british columbia",
-            "degree": "bachelor's in computer science",
-            "year": "ongoing"
+            "degree": "bachelor of computer science",
+            "year": "3"
         }
         self.interests = [
-            "building",
-            "basketball",
-            "tech",
+            "problem-solving",
+            "sports",
+            "gaming",
         ]
         self.website = "aaqibp.me"
 
