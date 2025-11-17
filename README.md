@@ -8,11 +8,6 @@ class Profile:
             "degree": "bachelor of computer science",
             "year": "3"
         }
-        self.interests = [
-            "problem-solving",
-            "sports",
-            "gaming",
-        ]
         self.website = "aaqibp.me"
 
     def __repr__(self):
