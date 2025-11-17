@@ -2,7 +2,7 @@
 class Profile:
     def __init__(self):
         self.name = "aaqib"
-        self.role = "computer science student | aspiring cloud & infra engineer"
+        self.role = "computer science student | aspiring full stack & infrastructure engineer"
         self.education = {
             "institution": "university of british columbia",
             "degree": "bachelor of computer science",
