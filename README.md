@@ -6,13 +6,18 @@ class Profile:
         self.education = {
             "institution": "university of british columbia",
             "degree": "bachelor of computer science",
-            "year": "3"
+            "year": "3rd year"
         }
-        self.website = "aaqibp.me"
 
-    def __repr__(self):
-        return f"<Profile: {self.name}, Role: {self.role}>"
+    def __str__(self):
+        return (
+            f"name:      {self.name}\n"
+            f"role:      {self.role}\n"
+            f"school:    {self.education['institution']} — {self.education['degree']} ({self.education['year']})\n"
+            f"website:   {self.website}"
+        )
 
 aaqib = Profile()
 print(aaqib)
+
 ```
