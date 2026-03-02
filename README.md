@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=aaqibp&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&color=%23ffffffFF">
+  <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=aaqibp&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=light">
+</picture>
+
+
 ```python
 class Profile:
     def __init__(self):
@@ -22,8 +28,3 @@ print(aaqib)
 
 
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=aaqibp&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&color=%23ffffffFF">
-  <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=aaqibp&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=light">
-</picture>
